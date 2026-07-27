@@ -64,7 +64,7 @@ Hobbies: AI Engineering, Video editing, Poster designing, Gaming
 Contact : yusufabdul0709@gmail.com
 
 '''
-[![Yusuf's GitHub stats](https://github-stats-extended.vercel.app/api?username=yusufabdul0709)](https://github.com/stats-organization/github-stats-extended)
+[![Yusuf's GitHub stats](https://github-stats-extended.vercel.app/api?username=yusufabdul0709-rgb)](https://github.com/stats-organization/github-stats-extended)
 
 
 
